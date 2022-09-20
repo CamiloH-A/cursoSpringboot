@@ -1,0 +1,3 @@
+com\achernandez\DemoCourse\DemoCourseApplication.class
+com\achernandez\DemoCourse\models\Usuario.class
+com\achernandez\DemoCourse\controllers\UsuarioController.class
